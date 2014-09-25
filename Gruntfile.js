@@ -22,6 +22,11 @@ module.exports = function (grunt) {
                 '**/*.js',
                 '!node_modules/**'
             ]
+        },
+        karma: {
+            e2e: {
+                configFile: 'test/e2e/karma.conf.js'
+            }
         }
     });
 
@@ -31,6 +36,7 @@ module.exports = function (grunt) {
     ]);
 
     grunt.registerTask('test', [
-        'lint'
+        'lint',
+        'karma:e2e'
     ]);
 };
