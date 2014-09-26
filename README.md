@@ -1,3 +1,10 @@
+[![Build Status](http://img.shields.io/travis/apibyexample/karma-abe-json2js-preprocessor/master.svg)](https://travis-ci.org/apibyexample/karma-abe-json2js-preprocessor)
+[![Dependency Status](https://david-dm.org/apibyexample/karma-abe-json2js-preprocessor/dev-status.svg)](https://david-dm.org/apibyexample/karma-abe-json2js-preprocessor#info=devDependencies)
+[![devDependency Status](https://david-dm.org/apibyexample/karma-abe-json2js-preprocessor/status.svg)](https://david-dm.org/apibyexample/karma-abe-json2js-preprocessor#info=dependencies)
+[![peerDependency Status](https://david-dm.org/apibyexample/karma-abe-json2js-preprocessor/peer-status.svg)](https://david-dm.org/apibyexample/karma-abe-json2js-preprocessor#info=peerDependencies)
+[![Monthly downloads](http://img.shields.io/npm/dm/karma-abe-json2js-preprocessor.svg)](https://www.npmjs.org/package/karma-abe-json2js-preprocessor)
+[![License](http://img.shields.io/npm/l/karma-abe-json2js-preprocessor.svg)](https://www.npmjs.org/package/karma-abe-json2js-preprocessor)
+
 karma-abe-json2js-preprocessor
 ==============================
 
