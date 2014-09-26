@@ -12,9 +12,12 @@
   },
   "keywords": [
     "abe",
-    "mocks",
+    "json",
+    "json2js",
     "karma",
-    "json"
+    "karma-plugin",
+    "karma-preprocessor",
+    "mocks"
   ],
   "author": [
     "API By Example <apibyexample@gmail.com>",
