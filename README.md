@@ -73,7 +73,7 @@ describe('Test JSON', function () {
     var json;
 
     beforeEach(function () {
-        abeJson = new AbeJSON('json/example.json');
+        abeJson = new AbeJson('json/example.json');
     });
 
     it('has the correct description', function () {
